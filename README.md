@@ -28,7 +28,7 @@ Provided recommendations for inventory planning and marketing optimization.
 **Tools:** Excel, Power BI, PowerPoint  
 Built an interactive dashboard to explore peak sales times, top-performing items, and trends.  
 Enabled data-driven decision-making for business growth.  
-🔗 [Project Link](https://github.com/ayaashraf/pizza-sales-analysis)
+🔗 [Project Link](https://github.com/AYA-Ashraf-AbdelRahim/pizza-sales-report)
 
 ---
 
