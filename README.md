@@ -52,7 +52,7 @@ Helped optimize product offerings and store performance.
 **Tools:** Excel  
 Created a dashboard to evaluate sales, profit, and units sold by region and retailer.  
 Provided performance insights to support brand growth strategies.  
-🔗 [Project Link](https://github.com/ayaashraf/adidas-sales)
+🔗 [Project Link](https://github.com/AYA-Ashraf-AbdelRahim/Addis-brand-sales)
 
 ---
 
