@@ -20,7 +20,7 @@ Developed targeted retention strategies including personalized offers, loyalty p
 **Tools:** Excel, Power BI, PowerPoint  
 Analyzed 6 months of sales data to identify peak demand periods and best-selling products.  
 Provided recommendations for inventory planning and marketing optimization.  
-🔗 [Project Link](https://github.com/ayaashraf/maven-roasters-sales)
+🔗 [Project Link](https://github.com/AYA-Ashraf-AbdelRahim/maven-roasters-sales)
 
 ---
 
