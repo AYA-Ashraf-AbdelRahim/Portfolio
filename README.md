@@ -44,7 +44,7 @@ Identified high-value customer segments and top-selling categories.
 **Tools:** Excel  
 Designed a detailed dashboard to monitor sales, profit, and customer behavior across branches.  
 Helped optimize product offerings and store performance.  
-🔗 [Project Link](https://github.com/ayaashraf/supermarket-dashboard)
+🔗 [Project Link](https://github.com/AYA-Ashraf-AbdelRahim/supermarket-sales-dashboard)
 
 ---
 
