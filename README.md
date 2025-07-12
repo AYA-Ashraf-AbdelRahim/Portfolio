@@ -12,8 +12,7 @@ This portfolio showcases real-world projects using **Excel**, **Power BI**, **SQ
 **Tools:** Excel, Power BI, PowerPoint  
 Conducted customer churn analysis to identify key factors influencing churn rates.  
 Developed targeted retention strategies including personalized offers, loyalty programs, and improved customer support.  
-🔗 [Project Link](https://github.com/ayaashraf/telecom-churn-analysis](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis)](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis))
-
+🔗[Project Link](https://github.com/AYA-Ashraf-AbdelRahim/telecom-churn-analysis)
 ---
 
 ### 2. ☕ Maven Roasters Sales Report  
