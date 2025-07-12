@@ -36,7 +36,7 @@ Enabled data-driven decision-making for business growth.
 **Tools:** Power BI  
 Developed a regional sales and profit analysis dashboard.  
 Identified high-value customer segments and top-selling categories.  
-🔗 [Project Link](https://github.com/ayaashraf/superstore-dashboard)
+🔗 [Project Link](https://github.com/AYA-Ashraf-AbdelRahim/super-store-sales-dashboard)
 
 ---
 
