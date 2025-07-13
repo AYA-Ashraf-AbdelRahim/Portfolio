@@ -61,5 +61,5 @@ More projects will be added soon... 🚀
 ---
 
 📫 **Contact Me**  
-- LinkedIn:https://www.linkedin.com/in/aya-ashraf/  
+- LinkedIn:https://www.linkedin.com/in/aya-ashraf-
 - 📧 Email: ayaashr61@gmail.com
